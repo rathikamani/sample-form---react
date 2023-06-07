@@ -1,0 +1,13 @@
+#user-form{
+  padding: 10px;
+  background: aliceblue;
+}
+
+.lableUser{
+  font-size: 21px;
+  /* text-align: center; */
+  font-weight: bold;
+  font-style: italic;
+  padding: 10px;
+  text-align: center;
+}
